@@ -1,0 +1,25 @@
+.navbar {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .navbar-left {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .navbar-right {
+    font-weight: bold;
+    gap:20px;
+  }
+  .gap {
+    margin-right: 10px; 
+  }
+  .nav-link {
+    color: white; 
+    text-decoration: none; 
+  }
